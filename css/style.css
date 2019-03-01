@@ -12,6 +12,9 @@ h2{
 	color: white;
 
 }
+h3{
+	color:lightblue;
+}
 ul {
 	margin: 0;
 	color: white;
@@ -29,6 +32,11 @@ p {
 	color: white;
 	font-size: 13px;
 	line-height: 1.3em;
+}
+button{
+	color: black;
+	
+	margin: 10px;
 }
 .container {
 	margin: 0 auto;
